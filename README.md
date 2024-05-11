@@ -7,7 +7,7 @@ I'm a data scientist and ML engineer with a passion for leveraging data to solve
 * +4 years of experience in data science and machine learning
 * Proven track record of building automated solutions, streamlining data pipelines, and developing predictive models
 * Expertise in Python (libraries: Pandas, Scikit-learn, Keras, etc.), SQL, Machine Learning, and Generative AI
-* At my current role in [Environics Analytics](https://environicsanalytics.com/en-ca)Reduced processing times by over 90% in +10 products, saving significant resources and boosting efficiency
+* At my current role in [Environics Analytics](https://environicsanalytics.com/en-ca), I automated data pipelines in +10 products, saving significant resources and boosting efficiency
 
 **Connect with me!**
 
