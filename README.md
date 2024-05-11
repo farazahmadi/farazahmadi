@@ -23,8 +23,8 @@ This repository includes a variety of projects demonstrating my skills in data s
 
 **Skills**
 
-* Programming: Python (extensive libraries), SQL, R, Matlab, SAS
-* Tools: Git, Docker, Azure, Snowflake, Alteryx, Spark, Streamlit, Power BI, etc.
+* Programming: Python, SQL, R, Matlab, SAS
+* Tools: Git, Docker, Azure ☁️, Snowflake ❄️, Alteryx, Spark, Streamlit, Power BI, etc.
 * Other: Predictive Modeling, Statistical Testing, A/B testing, Pipeline Automation, Feature Engineering, NLP, LLM, RAG, Prompt Engineering
 
 I'm always looking for new challenges and opportunities to learn and grow. Feel free to reach out if you have any questions or want to collaborate!
