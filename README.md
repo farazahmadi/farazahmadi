@@ -17,9 +17,9 @@ I'm a data scientist and ML engineer with a passion for leveraging data to solve
 
 This repository includes a variety of projects demonstrating my skills in data science and machine learning.  These projects encompass:
 
-* **Process Automation:** Python scripts and data pipelines for automating tasks and reducing processing time. ([See project folders for details])
-* **Predictive Modeling:** Building models for real-world applications, such as real-estate prediction and clinical outcome prediction. ([See project folders for details])
-* **Natural Language Processing (NLP):**  Developing NLP applications, such as semantic search and email generation using LLMs. ([See project folders for details])
+* **Process Automation:** Python scripts and data pipelines for automating tasks and reducing processing time.
+* **Predictive Modeling:** Building models for real-world applications, such as real-estate prediction and clinical outcome prediction.
+* **Natural Language Processing (NLP):**  Developing NLP applications, such as semantic search and email generation using LLMs.
 
 **Skills**
 
